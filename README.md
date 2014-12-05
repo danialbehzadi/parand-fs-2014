@@ -1,0 +1,1 @@
+This is a Presentation about Free Software, designed By [Danial Behzadi](mailto:dani.behzi@ubuntu.com) from [Ubuntu-ir](http://ubuntu.ir/) for Parand-IAU Free software confrence, thanks to [Impress.js](http://github.com/bartaz/impress.js/) projects.
